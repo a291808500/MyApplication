@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LotteryView">
+        <attr name="index_text_color" format="color"/>
+        <attr name="border_margin" format="dimension" />
+        <attr name="number_text_size" format="dimension" />
+        <attr name="index_text_size" format="dimension" />
+        <attr name="border_radius" format="dimension" />
+        <attr name="border_size" format="dimension" />
+        <attr name="index_text_margin_left" format="dimension" />
+        <attr name="index_text_margin_right" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="MaxHeightRecyclerView">
+        <attr name="maxHeight" format="dimension" />
+    </declare-styleable>
+</resources>

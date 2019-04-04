@@ -1,0 +1,224 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="mtf_cardHeight_initial">4dp</dimen>
+    <dimen name="mtf_cardHeight_final">55dp</dimen>
+    <dimen name="mtf_corner_radius">4dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--框架通用start-->
+    <!-- 地部导航 -->
+    <dimen name="toolbar_padding">3.3dp</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="toolbar_icon_hw">24dp</dimen>
+    <dimen name="toolbar_item_paddingTop">6dp</dimen>
+    <dimen name="toolbar_item_paddingBottom">3dp</dimen>
+
+    <!-- 顶部导航 -->
+    <dimen name="header_height">88px</dimen>
+    <dimen name="header_item_width">50dp</dimen>
+    <dimen name="header_itemImg_hw">24dp</dimen>
+    <dimen name="header_item_marginLeft">5dp</dimen>
+    <dimen name="header_item_marginRight">10dp</dimen>
+    <dimen name="header_left_paddingLeft">10dp</dimen>
+    <dimen name="header_left_height">40dp</dimen>
+    <dimen name="header_right_height">60dp</dimen>
+    <dimen name="header_right_paddingRight">10dp</dimen>
+    <dimen name="header_right_iconHw">34px</dimen>
+    <dimen name="header_line_margin">20dp</dimen>
+    <dimen name="header_text_marginL">8dp</dimen>
+
+    <!--查看大图-->
+    <dimen name="datu_btns_paddingLeft">41px</dimen>
+    <dimen name="datu_btns_paddingRight">41px</dimen>
+    <dimen name="datu_btns_paddingTop">12px</dimen>
+    <dimen name="datu_btns_paddingBottom">2px</dimen>
+    <dimen name="datu_btn_marginLeft">64px</dimen>
+
+    <!-- 字体 -->
+    <dimen name="textsize_small_low">6dp</dimen>
+    <dimen name="textsize_small">8dp</dimen>
+    <dimen name="textsize_small_height">10dp</dimen>
+    <dimen name="textsize_mid_low">12dp</dimen>
+    <dimen name="textsize_mid">14dp</dimen>
+    <dimen name="textsize_big_low">16dp</dimen>
+    <dimen name="textsize_big">32px</dimen>
+    <dimen name="textsize_big_height">21dp</dimen>
+    <dimen name="textsize_big_special">35dp</dimen>
+
+    <!--自定义customedit-->
+    <dimen name="customedit_value_ml">10dp</dimen>
+    <dimen name="customedit_edit_higth">50dp</dimen>
+    <dimen name="customedit_desc_w">75dp</dimen>
+    <dimen name="customedit_arrow_hw">20dp</dimen>
+    <dimen name="customedit_line_ml">10dp</dimen>
+
+    <!--自定义profile的点击条-->
+    <dimen name="custom_profilebtn_iconhw">18dp</dimen>
+    <dimen name="custom_profilebtn_h">45dp</dimen>
+    <dimen name="custom_profilebtn_rl">15dp</dimen>
+    <dimen name="custom_profilebtn_arrowhw">13dp</dimen>
+
+    <dimen name="profile_avatar_wh">80dp</dimen>
+    <!--自定义userinfo的点击条-->
+    <dimen name="custom_userbtn_h">45dp</dimen>
+    <dimen name="custom_userbtn_rl">15dp</dimen>
+    <dimen name="custom_userbtn_tb">15dp</dimen>
+    <dimen name="custom_userbtn_arrowhw">13dp</dimen>
+
+    <!--自定义mall的点击条-->
+    <dimen name="custom_mallbtn_mar">5dp</dimen>
+    <dimen name="custom_mall_h">50dp</dimen>
+    <dimen name="custom_mall_paddingLR">10dp</dimen>
+    <dimen name="custom_mall_left_img_wh">20dp</dimen>
+    <dimen name="custom_mall_right_img_h">10dp</dimen>
+    <dimen name="custom_mall_right_img_w">10dp</dimen>
+
+    <!--自定义release的点击条-->
+    <dimen name="custom_release_h">45dp</dimen>
+    <dimen name="custom_release_mar">15dp</dimen>
+
+    <!--自定义profile 订单点击条-->
+    <dimen name="custom_profile_order_img_wh">22dp</dimen>
+    <dimen name="custom_profile_order_txt_wh">15dp</dimen>
+
+    <!--pulltorefresh-->
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+
+    <!--loadingPager-->
+    <dimen name="loading_img_wh">100dp</dimen>
+
+    <!--框架通用end-->
+
+    <!--自定义订单状态TopView-->
+    <dimen name="topview_status_h">100dp</dimen>
+    <dimen name="topview_status_img_wh">40dp</dimen>
+
+    <!--自定义订单状态BottomView-->
+    <dimen name="bottom_status_h">60dp</dimen>
+    <dimen name="bottom_status_img_wh">15dp</dimen>
+
+    <!--自定义协议View-->
+    <dimen name="protocol_img_wh">13dp</dimen>
+    <dimen name="protocol_txt_maxH">182dp</dimen>
+    <dimen name="protocol_mar">15dp</dimen>
+
+
+    <!--注册界面的步骤条-->
+    <dimen name="step_img_hw">20dp</dimen>
+    <dimen name="step_img_prl">5dp</dimen>
+    <dimen name="step_img_marT">10dp</dimen>
+    <dimen name="step_lin_h">1dp</dimen>
+
+    <!--自定义支付方式-->
+    <dimen name="pay_txtitem_h">60dp</dimen>
+    <dimen name="pay_mar">15dp</dimen>
+    <dimen name="pay_icon_wh">20dp</dimen>
+    <dimen name="pay_img_wh">25dp</dimen>
+
+    <!--首页-->
+    <dimen name="home_avatar_hw">85dp</dimen>
+    <dimen name="home_mt">25dp</dimen>
+    <dimen name="home_mb">40dp</dimen>
+    <dimen name="home_item_mtb">13dp</dimen>
+    <dimen name="home_name_mt">10dp</dimen>
+    <dimen name="home_btndevice_h">34dp</dimen>
+    <dimen name="home_btndevice_w">120dp</dimen>
+    <dimen name="home_title_mtb">20dp</dimen>
+    <dimen name="home_title_mrl">30dp</dimen>
+
+    <!--公司信息-->
+    <dimen name="company_bottom_layout_height">60dp</dimen>
+    <dimen name="company_margin_left">15dp</dimen>
+    <dimen name="company_img_h_w">70dp</dimen>
+    <dimen name="biu_text_start_size">20sp</dimen>
+    <dimen name="crop__bar_height">56dp</dimen>
+
+    <!--pop 金钻分享-->
+    <dimen name="pop_diamond_code_wh">140dp</dimen>
+    <dimen name="pop_diamond_logo_wh">60dp</dimen>
+    <dimen name="pop_diamond_btn_h">40dp</dimen>
+
+    <dimen name="margin_left38">38dp</dimen>
+    <dimen name="project_function">90dp</dimen>
+    <dimen name="line">1dp</dimen>
+    <dimen name="project_function45">45dp</dimen>
+    <dimen name="my_function">44dp</dimen>
+    <dimen name="my_function_marginLeft">23dp</dimen>
+    <dimen name="mixline">5dp</dimen>
+    <dimen name="tenment_location">145dp</dimen>
+    <dimen name="my_button_alignTop">42dp</dimen>
+    <dimen name="tag_width">15dp</dimen>
+    <dimen name="tag_height">16dp</dimen>
+    <dimen name="daily_attendance">5dp</dimen>
+    <dimen name="daily_attendance_img">2dp</dimen>
+    <dimen name="shop_textleft">75dp</dimen>
+    <dimen name="shop_textwi">172.5dp</dimen>
+    <dimen name="shop_texthe">28dp</dimen>
+    <dimen name="shop_edleft">17.5dp</dimen>
+    <dimen name="shop_redtop">10dp</dimen>
+    <dimen name="balance_kuang">150dp</dimen>
+    <dimen name="balance_btnwi">207dp</dimen>
+    <dimen name="balance_btnhe">32dp</dimen>
+    <dimen name="balance_btntop">110dp</dimen>
+    <dimen name="balance_letop">15dp</dimen>
+    <dimen name="header">50dp</dimen>
+    <dimen name="edr">65dp</dimen>
+    <dimen name="provincel">105dp</dimen>
+    <dimen name="cityr">157dp</dimen>
+    <dimen name="pcdh">32dp</dimen>
+    <dimen name="pcttop">30dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="historyscore_tb">10dp</dimen>
+    <!-- TextView中字体的大小 -->
+    <dimen name="tv_size_480">280sp</dimen>
+    <dimen name="tv_size_330">160sp</dimen>
+    <dimen name="tv_size_280">140sp</dimen>
+    <dimen name="tv_size_200">130sp</dimen>
+    <dimen name="tv_size_88">61sp</dimen>
+    <dimen name="tv_size_80">55sp</dimen>
+    <dimen name="tv_size_184">123sp</dimen>
+    <dimen name="tv_size_170">90sp</dimen>
+    <dimen name="tv_size_140">70sp</dimen>
+    <dimen name="tv_size_100">66sp</dimen>
+    <dimen name="tv_size_90">60sp</dimen>
+    <dimen name="tv_size_78">52sp</dimen>
+    <dimen name="tv_size_70">47sp</dimen>
+    <dimen name="tv_size_60">36sp</dimen>
+    <dimen name="tv_size_48">32sp</dimen>
+    <dimen name="tv_size_40">28sp</dimen>
+    <dimen name="tv_size_38">26sp</dimen><!--36px  -->
+    <dimen name="tv_size_36">24sp</dimen><!--36px  -->
+    <dimen name="tv_size_34">22.7sp</dimen><!-- 34px -->
+    <dimen name="tv_size_32">21.3sp</dimen><!-- 32px -->
+    <dimen name="tv_size_30">20sp</dimen><!-- 30px -->
+    <dimen name="tv_size_28">18.7sp</dimen><!-- 28px -->
+    <dimen name="tv_size_26">17.3sp</dimen><!-- 26px -->
+    <dimen name="tv_size_24">16sp</dimen><!-- 24px -->
+    <dimen name="tv_size_22">14.7sp</dimen><!--22px-->
+    <dimen name="tv_size_20">13.3sp</dimen><!--20px-->
+    <dimen name="tv_size_18">12sp</dimen><!--18px -->
+    <dimen name="tv_size_16">10.7sp</dimen><!--16px -->
+    <dimen name="tv_size_14">9.3sp</dimen><!--14px -->
+    <dimen name="tv_size_12">8sp</dimen><!--12px -->
+    <dimen name="tv_size_10">6.7sp</dimen><!--10px -->
+    <dimen name="tv_size_8">6sp</dimen>
+    <dimen name="tv_size_4">4sp</dimen>
+    <!--emchat-->
+    <dimen name="nav_barheight_header">50dp</dimen>
+    <dimen name="em_margin_chat_activity">5dp</dimen>
+    <dimen name="size_avatar">50dp</dimen>
+    <dimen name="font_text_major">20sp</dimen>
+    <dimen name="frame_listitem_left_space">13dp</dimen>
+    <dimen name="divider_column_thin">1dp</dimen>
+    <dimen name="ui_back_arrow">55dp</dimen>
+    <dimen name="pic_icon_minimum">22dp</dimen>
+    <dimen name="thumnail_default_width">100dip</dimen>
+    <dimen name="thumnail_default_height">100dip</dimen>
+</resources>
